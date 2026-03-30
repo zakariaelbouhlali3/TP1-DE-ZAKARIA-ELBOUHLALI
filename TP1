@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MON EMPLOI DU TEMPS S2</title>
+    <center>
+    <img src="logo la fac.png"height="100px" width="400px"> 
+    </center>
+    <img src="signature.jpeg"height="70px" width="70px"> 
+</head>
+<body>
+<h5 align="right"><u>Année Universitaire 2025-2026</u></h5>
+<h2 align="center">Emploi Du Temps — IAIL- S2</h2>
+<table border="5">
+<tr>
+<th></th>
+<th>9h A 10h30</th>
+<th>10h30 A 12h</th>
+<th>12h15 A 13h45</th>
+<th>13h45 A 15h15</th>
+<th>15h30 A 17h</th>
+<th>17h A 18h30</th>
+</tr>
+<tr>
+<td>Lundi</td>
+<td>Programmation Python 2 Prof M.Laraqui Cours - Amphi A</td>
+<td>Algorithmes Et Programmation C 2 Cours - Prof H.Oudani Cours – Amphi A</td>
+<th></th>
+<td>Algorithmes Et Programmation C 2 Td/Tp Grp1 – Salle P2 Prof H.Oudani</td>
+<td>Programmation Python 2 Td/Tp Grp 3- Salle P2 Prof A.Elouardi</td>
+<td>Programmation Python 2 Td/Tp Grp 2- Salle P2 Prof A.Elouardi</td>
+</tr>
+<tr>
+<td>Mardi</td>
+<td>Programmation Python2 Td/Tp Grp 1- Salle P2 Prof A.Elouardi
+</td>
+<th></th>
+<td>Digital Skills & Intelligence Artificielle Cours – Amphi A Prof A. Elouardi</td>
+<td>Digital Skills & Intelligence Artificielle Td/Tp - Amphi A Prof A. Elouardi</td>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>Mercredi</td>
+<th></th>
+<th></th>
+<th></th>
+<td>Algorithmes Et Programmation C 2 Td/Tp Grp2 – Salle P2 Prof H.Oudani</td>
+<td>Algèbre 2 TD – Amphi A Prof I. Boutaayamo</td>
+<td>Analyse 2 Td – Amphi A Prof A.Hadri</td>
+</tr>
+<td>Jeudi</td>
+<td>Traitement Du Signal Cours – Amphi A Prof H.Azzahhafi</td>
+<td>Traitement Du Signal TD - Amphi A Prof H.Azzahhafi</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<td>Vendredi</td>
+<td>Algèbre 2 Cours – Amphi C Prof I. Boutaayamo</td>
+<td>Analyse 2 Cours – Amphi C Prof A.Hadri</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<td>Samedi</td>
+<th></th>
+<th></th>
+<th></th>
+<td>Programmation Web 1 Td/Tp G2– Salle P2 Prof A.Hakem</td>
+<td>Programmation Web 1 Cours – Salle P1 Prof K.Omari</td>
+<td>Programmation Web 1 Td/Tp G1– Salle P2 Prof K.Omari</td>
+</tr>
+</table>
+</body>
+</html>
